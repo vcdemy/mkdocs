@@ -28,7 +28,7 @@ mkdocs new projectname
 mkdocs serve
 ```
 
-### 建立說明網站
+### 建立網站
 
 ```bash
 mkdocs build
